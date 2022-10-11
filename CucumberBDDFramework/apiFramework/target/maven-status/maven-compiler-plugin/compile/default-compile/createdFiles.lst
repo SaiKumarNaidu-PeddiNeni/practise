@@ -1,0 +1,4 @@
+pojo\DeletePayload.class
+pojo\GoogleMapApi.class
+bdd\apiFramework\App.class
+pojo\Location.class
